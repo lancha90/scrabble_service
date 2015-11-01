@@ -11,7 +11,7 @@ import co.com.scrabble.dmha.model.ScrabbleWord;
 
 public class ScrabbleGenerator {
 
-	List<String> dictionay = new ArrayList<String>(Arrays.asList("ABRIGO",
+	private List<String> dictionay = new ArrayList<String>(Arrays.asList("ABRIGO",
 			"BOLIVAR", "CAMPO", "DIGO", "ESTOY", "FARO", "GRANO", "HIGADO",
 			"INFORME", "JIRAFA", "KILO", "LIMON", "MICO", "NICOLAS", "ORIGEN",
 			"PASO", "QUESO", "RUGBY", "SAPO", "TIMBRE", "UMBRAL", "VICTOR",
